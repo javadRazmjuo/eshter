@@ -104,7 +104,7 @@ DefaultContentLanguage = "en"
     openingHours = "Open from 8 a.m. to 8 p.m."
 
 [params]
-copyright = ""
+copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = ""
 googleAnalytics = "G-RZPCD5E5NB"
