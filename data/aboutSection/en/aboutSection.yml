@@ -1,0 +1,20 @@
+---
+enable: true
+# topTitle: Info
+title: >
+  ## WHO ARE WE ?
+
+content: >
+  ### We are an agency which accompanies you to facilitate your efforts. 
+
+  We are acting as an intermediary to answer your needs or to put you in touch with any person or entity able to satisfy them.
+
+
+  Based in Rennes (Brittany) we can meet your needs in several cities in France..
+
+
+  Please contact us for more details.
+
+button1Name: Contact me
+button1Target: en/contact
+image: images/about/about-img.jpg

@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle:  Bonjour, je suis Esther
+content: >
+  # Venez étudier en France ?
+
+  Nous vous accompagnons dans vos démarches
+
+buttonName: Contactez moi
+buttonURL: fr/contact
+image: images/hero/hero.jpg
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

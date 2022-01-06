@@ -1,0 +1,111 @@
+baseURL = "/"
+languageCode = "en-us"
+paginate = 6 # Define the number of posts per page
+theme = "portio"
+title = "eshter helps you"
+defaultContentLanguageInSubdir = true
+
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    [languages.en.params]
+    contactLink = "en/contact"
+    blogPageURL = "en/blog"
+    [[languages.en.menu.main]]
+    name = "Home"
+    url = "#home"
+    weight = 1
+    [[languages.en.menu.main]]
+    name = "About"
+    url = "#about"
+    weight = 2
+    [[languages.en.menu.main]]
+    name = "Explanations"
+    url = "#explanations"
+    weight = 3
+    [[languages.en.menu.main]]
+    name = "Offer"
+    url = "#offer"
+    weight = 4
+
+    [[languages.en.menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 5
+
+    # Sitemap Menu
+    [[languages.en.menu.sitemap]]
+    name = "About me"
+    url = "#about"
+    weight = 1
+
+    [[languages.en.menu.sitemap]]
+    name = "Contact Us"
+    url = "/contact"
+    weight = 2
+
+    [languages.en.params.address]
+    address = "8 Mail du Chêne roux 35135 chantepie"
+    email = "estherhelpsyou@gmail.com"
+    openingHours = "Open from 8 a.m. to 8 p.m."
+
+  [languages.fr]
+    languageName = "Fr"
+    weight = 2
+    # Main Menu
+    [languages.fr.params]
+    contactLink = "fr/contact"
+    blogPageURL = "fr/blog"
+    [[languages.fr.menu.main]]
+    name = "domicile"
+    url = "#home"
+    weight = 1
+    [[languages.fr.menu.main]]
+    name = "sur"
+    url = "#about"
+    weight = 2
+    [[languages.fr.menu.main]]
+    name = "Explanations"
+    url = "#explanations"
+    weight = 3
+    [[languages.fr.menu.main]]
+    name = "Accompagnement"
+    url = "#offer"
+    weight = 4
+    [[languages.fr.menu.main]]
+    name = "contact"
+    url = "/contact"
+    weight = 5
+
+
+    # Sitemap Menu
+    [[languages.fr.menu.sitemap]]
+    name = "À propos de moi"
+    url = "#about"
+    weight = 1
+    #[[menu.sitemap]]
+    #name = "Frequently Ask Question"
+    #url = "#"
+    #weight = 2
+    #[[menu.sitemap]]
+    #name = "Privacy & Policy"
+    #url = "#"
+    #weight = 3
+    [[languages.fr.menu.sitemap]]
+    name = "Nous contacter"
+    url = "/contact"
+    weight = 2
+
+    [languages.fr.params.address]
+    address = "8 Mail du Chêne roux 35135 chantepie"
+    email = "estherhelpsyou@gmail.com"
+    openingHours = "Open from 8 a.m. to 8 p.m."
+
+[params]
+copyright = ""
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = ""
+googleAnalytics = "G-RZPCD5E5NB"
+logo = "images/site-navigation/logo.png"

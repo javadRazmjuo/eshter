@@ -1,0 +1,22 @@
+---
+enable: true
+# topTitle: Info
+title: >
+  ##  QUI SOMMES NOUS ? 
+  
+content: >
+  ### Nous sommes une agence qui vous accompagne pour faciliter vos démarches.
+
+
+  Nous agissons en tant qu’intermédiaire pour répondre à vos besoins ou vous mettre en relation avec toute personne ou entité à même de les satisfaire.
+
+
+  Actuellement basés à Rennes (Bretagne) nous pouvons répondre à vos besoins dans plusieurs villes de France.
+
+
+  nous consulter pour plus de détails.
+
+  
+button1Name: Contactez moi
+button1Target: fr/contact
+image: images/about/about-img.jpg

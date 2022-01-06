@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: Блог
+title: >
+  ## Недавние статьи
+
+  Последние посты в Блоге
+
+buttonTarget: ru/blog

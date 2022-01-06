@@ -1,0 +1,42 @@
+---
+enable: true
+topTitle: Мои Навыки
+content: >
+  ## Почему Именно Я?
+
+  
+  Моя цель - построить профессиональный и качественный продукт. Ниже вы можете увидеть основной список моих навыков
+
+image: images/skill/skill_image.png
+
+skill:
+  - title: ROS 1/2
+    percent: 80
+  - title: Git
+    percent: 80
+  - title: Python
+    percent: 85
+  - title: MATLAB
+    percent: 70  
+  - title: C++
+    percent: 70
+  - title: C
+    percent: 70  
+
+  - title: САПР (Solidworks, Compas 3D)
+    percent: 70
+
+  - title: OpenCV
+    percent: 90
+
+  - title: Pytorch
+    percent: 70
+
+  - title: NN-Deployment
+    percent: 60
+     
+  - title: Detectron2
+    percent: 80
+
+  - title: TeX
+    percent: 80
