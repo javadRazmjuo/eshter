@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 paginate = 6 # Define the number of posts per page
 theme = "portio"
-title = "eshter helps you"
+title = "esther helps you"
 defaultContentLanguageInSubdir = true
 
 DefaultContentLanguage = "en"

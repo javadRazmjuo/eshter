@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg fixed-top">
   <div class="container">
     <a href="{{ .Site.BaseURL }}" class="navbar-brand">
-      <img style="width: 200px;" src="{{ .Site.Params.logo | absURL }}" alt="site-logo">
+      <img style="width: 160px;" src="{{ .Site.Params.logo | absURL }}" alt="site-logo">
     </a>
     <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbarCollapse">
       <span class="navbar-toggler-icon"></span>
@@ -11,7 +11,7 @@
     </button>
 
     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-      <ul class="nav navbar-nav main-navigation " style="margin-left:70px">
+      <ul class="nav navbar-nav main-navigation " style="margin-left:100px">
         {{ $menu := .Site.Menus.main }}
         {{ range $index, $element := $menu }}
         <li class="nav-item mr-2">
