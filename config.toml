@@ -47,7 +47,7 @@ DefaultContentLanguage = "en"
     weight = 2
 
     [languages.en.params.address]
-    address = "8 Mail du Chêne roux 35135 chantepie"
+    address = "she-esther@orange.fr"
     email = "estherhelpsyou@gmail.com"
     openingHours = "Open from 8 a.m. to 8 p.m."
 
@@ -99,7 +99,7 @@ DefaultContentLanguage = "en"
     weight = 2
 
     [languages.fr.params.address]
-    address = "8 Mail du Chêne roux 35135 chantepie"
+    address = "she-esther@orange.fr"
     email = "estherhelpsyou@gmail.com"
     openingHours = "Open from 8 a.m. to 8 p.m."
 
