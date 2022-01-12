@@ -47,7 +47,6 @@ DefaultContentLanguage = "en"
     weight = 2
 
     [languages.en.params.address]
-    address = "she-esther@orange.fr"
     email = "estherhelpsyou@gmail.com"
     openingHours = "Open from 8 a.m. to 8 p.m."
 
@@ -99,7 +98,6 @@ DefaultContentLanguage = "en"
     weight = 2
 
     [languages.fr.params.address]
-    address = "she-esther@orange.fr"
     email = "estherhelpsyou@gmail.com"
     openingHours = "Open from 8 a.m. to 8 p.m."
 
