@@ -30,10 +30,7 @@ DefaultContentLanguage = "en"
     url = "#offer"
     weight = 4
 
-    [[languages.en.menu.main]]
-    name = "Contact"
-    url = "https://forms.gle/CNcUDdKAKky4tNi89"
-    weight = 5
+
 
     # Sitemap Menu
     [[languages.en.menu.sitemap]]
@@ -58,11 +55,11 @@ DefaultContentLanguage = "en"
     contactLink = "fr/contact"
     blogPageURL = "fr/blog"
     [[languages.fr.menu.main]]
-    name = "domicile"
+    name = "Domicile"
     url = "#home"
     weight = 1
     [[languages.fr.menu.main]]
-    name = "sur"
+    name = "Sur"
     url = "#about"
     weight = 2
     [[languages.fr.menu.main]]
@@ -73,10 +70,7 @@ DefaultContentLanguage = "en"
     name = "Accompagnement"
     url = "#offer"
     weight = 4
-    [[languages.fr.menu.main]]
-    name = "contact"
-    url = "https://forms.gle/CNcUDdKAKky4tNi89"
-    weight = 5
+
 
 
     # Sitemap Menu
