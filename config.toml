@@ -32,7 +32,7 @@ DefaultContentLanguage = "en"
 
     [[languages.en.menu.main]]
     name = "Contact"
-    url = "/contact"
+    url = "https://forms.gle/CNcUDdKAKky4tNi89"
     weight = 5
 
     # Sitemap Menu
@@ -43,7 +43,7 @@ DefaultContentLanguage = "en"
 
     [[languages.en.menu.sitemap]]
     name = "Contact Us"
-    url = "/contact"
+    url = "https://forms.gle/CNcUDdKAKky4tNi89"
     weight = 2
 
     [languages.en.params.address]
@@ -75,7 +75,7 @@ DefaultContentLanguage = "en"
     weight = 4
     [[languages.fr.menu.main]]
     name = "contact"
-    url = "/contact"
+    url = "https://forms.gle/CNcUDdKAKky4tNi89"
     weight = 5
 
 
@@ -94,7 +94,7 @@ DefaultContentLanguage = "en"
     #weight = 3
     [[languages.fr.menu.sitemap]]
     name = "Nous contacter"
-    url = "/contact"
+    url = "https://forms.gle/CNcUDdKAKky4tNi89"
     weight = 2
 
     [languages.fr.params.address]
